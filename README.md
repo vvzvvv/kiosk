@@ -40,14 +40,19 @@
 
 ## 실행 화면
 - 시작 화면
+
   <img width="700" alt="스크린샷 2025-03-29 오전 12 03 26" src="https://github.com/user-attachments/assets/7b08d41c-f30e-4fdc-b255-010ea8581306" />
 - 메뉴 선택 (재고 없으면 품절 처리)
+
   <img width="700" alt="스크린샷 2025-03-29 오전 12 03 47" src="https://github.com/user-attachments/assets/83f59ab3-99ef-4e85-a4b2-1d2ffe2eb0e6" />
 - 장바구니
+  
   <img width="703" alt="스크린샷 2025-03-29 오전 12 05 11" src="https://github.com/user-attachments/assets/1601c31b-d921-47b0-8dbe-8226d712592c" />
 
 - 결제_쿠폰입력
+  
   <img width="703" alt="스크린샷 2025-03-29 오전 12 05 33" src="https://github.com/user-attachments/assets/f6e1bb9f-f44a-4419-bae0-544640aec05a" />
   
-- 결제 완료 
+- 결제 완료
+  
   <img width="706" alt="스크린샷 2025-03-29 오전 12 06 07" src="https://github.com/user-attachments/assets/ccce416d-6c48-46ca-99df-0408614e7d01" />
